@@ -1,19 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 /* Changing heading color and font */
 div h1{
     color: rgb(3, 3, 135);
     text-align: center;
-    padding: 13px 1px;
+    padding: 12px auto;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 50px;
 }
 
-/* Changing background color */
+/* Changing background color and font of body*/
 .background{
     background-color: rgb(221, 232, 248);
+    color: rgb(3, 3, 135);
+    font-weight: 600;
 }
 
-/* Changing navbar color */
-.bg-color{
+/* Changing navbar color and a bit design*/
+nav{
     background-color:rgb(3, 3, 135) ;
+    border-bottom: 2.5px solid black;
+    border-top: 2.5px solid black;
 }
-
