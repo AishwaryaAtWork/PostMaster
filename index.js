@@ -1,5 +1,3 @@
-console.log("enter"
-)
 //Utility funnctions:-
 // 1.Utility funnction to get DOM from string
 function getElementFromString(string){
