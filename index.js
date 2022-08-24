@@ -40,7 +40,7 @@ addparams.addEventListener('click',()=>{
                     <input type="text" class="form-control" id="parametervalue${addparamsCount + 2}" placeholder="Enter Parameter ${addparamsCount + 2} value">
                 </div>
                 <div class="col-md-2">
-                    <button class="btn btn-primary deleteParams" > - </button>
+                    <button class="btn btn-primary active deleteParams" > - </button>
                 </div>
             </div>`;
     //Convert elent string to DOM node
